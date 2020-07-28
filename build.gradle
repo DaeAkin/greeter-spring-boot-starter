@@ -12,6 +12,6 @@ repositories {
 }
 
 dependencies {
-    implementation 'com.github.DaeAkin:greeter-library:v1.0.0'
-    implementation 'com.github.DaeAkin:greeter-spring-boot-autoconfigure:v1.0.2'
+    compile 'com.github.DaeAkin:greeter-library:v1.0.0'
+    compile 'com.github.DaeAkin:greeter-spring-boot-autoconfigure:v1.0.2'
 }
